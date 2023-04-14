@@ -1,5 +1,5 @@
-# Smart-Cane-Code
-This is the code to make a smart cane that can detect obstacles in front of it in less than 3 steps. 
+# You_Cane_Do_It
+This is the code to make a blind cane that can detect obstacles in front of it in less than 3 steps. 
 I have used the MIT app inventor to display the messages on the mobile phone using bluetooth
 
 Make sure to get these materials:
