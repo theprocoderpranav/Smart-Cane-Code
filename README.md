@@ -14,8 +14,7 @@ Now, lets get on to the code
 
 MAKE SURE TO UPLOAD THIS ONLY IN ARDUINO!!!
 
-#include <SoftwareSerial.h>
-//rx --> 5 tx --> 6 
+#include <SoftwareSerial.h> 
 SoftwareSerial bluetooth (5,6);
 void setup ()
 {
